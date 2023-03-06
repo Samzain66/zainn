@@ -1,0 +1,911 @@
+================================================================================
+2023-02-27 06:00:50.910 INFO  🔥 Firebase Initializer: Initiated Firebase App initialization
+2023-02-27 06:00:51.578 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:00:51.855 INFO  🔥 Firebase Initializer: Registered dependent service RemoteConfigFirebaseService for initialization
+2023-02-27 06:00:51.858 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:00:51.858 INFO  🔥 Firebase Initializer: Asynchronous Firebase initialization in progress, will retry after it, exiting now
+2023-02-27 06:00:51.909 INFO  Purchase handle subscription
+2023-02-27 06:00:53.066 INFO  💽 Boot: Starting main boot sequence
+2023-02-27 06:00:53.066 INFO  💽 Boot: Application version: 1.11.1
+2023-02-27 06:00:53.068 INFO  💽 Boot: Increasing session number
+2023-02-27 06:00:53.074 INFO  🔥 Firebase Initializer: CheckAndFixDependenciesAsync complete, proceeding with custom calls
+2023-02-27 06:00:53.349 INFO  🔥 Firebase Initializer: IsCrashlyticsCollectionEnabled flag status: True
+2023-02-27 06:00:53.349 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:00:53.349 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 06:00:53.349 INFO  🔥 Firebase Initializer: Initializing dependent service RemoteConfigFirebaseService
+2023-02-27 06:00:53.350 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 06:00:53.350 INFO  🔥 Firebase Initializer: Enabling Crashlytics logger
+2023-02-27 06:00:54.689 INFO  💽 Boot: ⏱ 1620 ms
+2023-02-27 06:00:54.689 INFO  💽 Boot: Unsubscribing to focus change
+2023-02-27 06:00:54.835 INFO  💽 Boot: ⏱ 146 ms
+2023-02-27 06:00:54.836 INFO  💽 Boot: Checking internet reachability
+2023-02-27 06:00:54.865 INFO  💽 Boot: ⏱ 29 ms
+2023-02-27 06:00:54.865 INFO  💽 Boot: Requesting tracking status
+2023-02-27 06:00:55.320 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:00:57.326 INFO  FCM: registration token received, but no listener set yet - cached the token.
+2023-02-27 06:00:58.157 INFO  MessagingController: Schedule notifications
+2023-02-27 06:00:58.172 INFO  💽 Boot: ⏱ 3306 ms
+2023-02-27 06:00:58.172 INFO  💽 Boot: Initializing analytics
+2023-02-27 06:00:58.205 INFO  C# trackSessionEvents True
+2023-02-27 06:00:58.205 INFO  C# init 3318d45f631d8ab1aa2935e552f968db
+2023-02-27 06:00:58.206 INFO  🔥 Firebase Initializer: Registered dependent service FirebaseAnalyticService for initialization
+2023-02-27 06:00:58.206 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:00:58.206 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 06:00:58.206 INFO  🔥 Firebase Initializer: Initializing dependent service FirebaseAnalyticService
+2023-02-27 06:00:58.207 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 06:00:58.208 INFO  💽 Boot: ⏱ 35 ms
+2023-02-27 06:00:58.208 INFO  💽 Boot: Increasing app execution count
+2023-02-27 06:00:58.231 INFO  💽 Boot: ⏱ 22 ms
+2023-02-27 06:00:58.231 INFO  💽 Boot: Configuring adaptive performance
+2023-02-27 06:00:58.266 INFO  💽 Boot: ⏱ 35 ms
+2023-02-27 06:00:58.266 INFO  💽 Boot: Resetting log files
+--------------------------------------------------------------------------------
+2023-02-27 06:00:58.282 INFO  💽 Boot: ⏱ 13 ms
+2023-02-27 06:00:58.288 INFO  💽 Boot: Init Unity Game Services
+2023-02-27 06:00:59.314 INFO  💽 Boot: ⏱ 1026 ms
+2023-02-27 06:00:59.315 INFO  💽 Boot: Fetching remote config
+2023-02-27 06:00:59.348 INFO  🎇 RemoteConfigFirebaseService: Firebase installation time: ⏱ 1 ms
+2023-02-27 06:01:00.537 INFO  Creating RemoteConfig 0x100f3e590 for App __FIRAPP_DEFAULT
+2023-02-27 06:01:01.866 INFO  🎇 RemoteConfigFirebaseService: Firebase fetch time: ⏱ 2517 ms
+2023-02-27 06:01:02.497 INFO  🎇 RemoteConfigFirebaseService: Getting config provider time: ⏱ 630 ms
+2023-02-27 06:01:02.995 INFO  🎇 RemoteConfigFirebaseService: Data parsing time: ⏱ 498 ms
+2023-02-27 06:01:02.995 INFO  💽 Boot: ⏱ 3680 ms
+2023-02-27 06:01:02.995 INFO  💽 Boot: Initializing localization
+2023-02-27 06:01:04.037 INFO  C# sendEvent loading_initializing_localization with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1034}
+2023-02-27 06:01:04.039 INFO  💽 Boot: ⏱ 1034 ms
+2023-02-27 06:01:04.039 INFO  💽 Boot: Checking for app update or maintenance
+2023-02-27 06:01:04.043 INFO  C# sendEvent loading_checking_for_app_update_or_maintenance with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:01:04.043 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:01:04.043 INFO  💽 Boot: Initializing messaging
+2023-02-27 06:01:04.063 INFO  🔥 Firebase Initializer: Registered dependent service IOSFirebaseMessaging for initialization
+2023-02-27 06:01:04.063 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:01:04.063 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 06:01:04.063 INFO  🔥 Firebase Initializer: Initializing dependent service IOSFirebaseMessaging
+2023-02-27 06:01:04.066 INFO  Messaging: Firebase Messaging Initialized
+2023-02-27 06:01:04.068 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 06:01:04.069 INFO  Messaging: Received local notifications: 0
+2023-02-27 06:01:04.150 INFO  FCM: Initialize Firebase Messaging
+2023-02-27 06:01:04.150 INFO  FCM: Using FCM senderID 104875579061
+2023-02-27 06:01:04.193 INFO  FCM: new registration token received.
+2023-02-27 06:01:04.193 INFO  FCM: Retrieve registration token
+2023-02-27 06:01:04.193 INFO  queued token f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 06:01:04.193 INFO  sending token f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 06:01:04.194 INFO  FCM: Retrieve registration token
+2023-02-27 06:01:04.194 WARN  Messaging: Received Registration Token: f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 06:01:04.289 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:01:05.418 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:01:05.418 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:01:05.425 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:01:05.426 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:01:07.182 INFO  MessagingController: Schedule notifications
+2023-02-27 06:01:07.199 INFO  C# sendEvent loading_initializing_messaging with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":3147}
+2023-02-27 06:01:07.201 INFO  💽 Boot: ⏱ 3147 ms
+2023-02-27 06:01:07.201 INFO  💽 Boot: Requesting advertisement identifier
+2023-02-27 06:01:07.234 INFO  🧊 Unity In-App: Notified about initialization success by Unity
+2023-02-27 06:01:07.325 INFO  C# sendEvent loading_requesting_advertisement_identifier with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":120}
+2023-02-27 06:01:07.325 INFO  💽 Boot: ⏱ 120 ms
+2023-02-27 06:01:07.325 INFO  💽 Boot: Initializing Facebook
+2023-02-27 06:01:07.371 INFO  Using Facebook Unity SDK v11.0.0 with FBiOSSDK/11.1.0
+2023-02-27 06:01:07.386 INFO  C# sendEvent loading_initializing_facebook with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":55}
+2023-02-27 06:01:07.387 INFO  💽 Boot: ⏱ 55 ms
+2023-02-27 06:01:07.387 INFO  💽 Boot: Tracking init start event
+2023-02-27 06:01:07.398 INFO  C# sendEvent build_init_start with properties {}
+2023-02-27 06:01:07.405 INFO  C# sendEvent loading_tracking_init_start_event with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":11}
+2023-02-27 06:01:07.405 INFO  💽 Boot: ⏱ 11 ms
+2023-02-27 06:01:07.405 INFO  💽 Boot: Deleting old log files
+2023-02-27 06:01:07.422 INFO  C# sendEvent loading_deleting_old_log_files with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":11}
+2023-02-27 06:01:07.422 INFO  💽 Boot: ⏱ 11 ms
+2023-02-27 06:01:07.422 INFO  💽 Boot: Opening server connection
+2023-02-27 06:01:07.432 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:08.555 INFO  C# sendEvent loading_opening_server_connection with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1125}
+2023-02-27 06:01:08.555 INFO  💽 Boot: ⏱ 1125 ms
+2023-02-27 06:01:08.555 INFO  💽 Boot: Validating client time
+2023-02-27 06:01:08.570 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:08.778 INFO  C# sendEvent loading_validating_client_time with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":216}
+2023-02-27 06:01:08.782 INFO  💽 Boot: ⏱ 216 ms
+2023-02-27 06:01:08.782 INFO  💽 Boot: Logging user in
+2023-02-27 06:01:08.807 INFO  📡 SignalR: Invoking SignalR method IsUserRegistered at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:09.019 INFO  Creating Auth 0x101193040 for App 0x100f4a610
+2023-02-27 06:01:09.020 INFO  SocialSignIn: LoggedInByStorage False
+2023-02-27 06:01:09.020 INFO  SocialSignIn: LoggedInByFirebase False
+2023-02-27 06:01:09.020 INFO  SocialSignIn: LoggedInByStorage False
+2023-02-27 06:01:09.020 INFO  SocialSignIn: LoggedInByFirebase False
+2023-02-27 06:01:09.021 INFO  📡 SignalR: Invoking SignalR method RegisterUserAnonymously at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:09.044 INFO  Auth state changed. Notifying 1 listeners.
+2023-02-27 06:01:09.045 INFO  ID token changed. Notifying 1 listeners.
+2023-02-27 06:01:09.315 INFO  💽 Simple Login Boot: Anonymous registration time: ⏱ 294 ms
+2023-02-27 06:01:09.316 INFO  📡 SignalR: Invoking SignalR method LoginAnonymously at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:09.500 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:01:09.500 INFO  💽 Simple Login Boot: Anonymous login time: ⏱ 185 ms
+2023-02-27 06:01:09.506 INFO  C# sendEvent loading_logging_user_in with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":718}
+2023-02-27 06:01:09.506 INFO  💽 Boot: ⏱ 718 ms
+2023-02-27 06:01:09.506 INFO  💽 Boot: Set device id
+2023-02-27 06:01:09.523 INFO  C# setOnceUserProperty player_id, 0A97B434-5EA1-426A-A3B1-D1526B833071
+2023-02-27 06:01:09.524 WARN  FirebaseAnalytic: IUserPropertyService SetOnce function work as Set function
+2023-02-27 06:01:09.527 INFO  C# sendEvent loading_set_device_id with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":17}
+2023-02-27 06:01:09.528 INFO  💽 Boot: ⏱ 17 ms
+2023-02-27 06:01:09.528 INFO  💽 Boot: Initializing Bank
+2023-02-27 06:01:09.552 INFO  C# sendEvent loading_initializing_bank with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":19}
+2023-02-27 06:01:09.553 INFO  💽 Boot: ⏱ 19 ms
+2023-02-27 06:01:09.553 INFO  💽 Boot: Subscribing for push token receiving
+2023-02-27 06:01:09.569 INFO  📡 SignalR: Invoking method UpdatePushToken at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:09.573 INFO  C# sendEvent loading_subscribing_for_push_token_receiving with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":16}
+2023-02-27 06:01:09.574 INFO  💽 Boot: ⏱ 16 ms
+2023-02-27 06:01:09.574 INFO  💽 Boot: Subscribing for custom attribution data
+2023-02-27 06:01:09.574 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:09.586 INFO  C# sendEvent loading_subscribing_for_custom_attribution_data with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":7}
+2023-02-27 06:01:09.588 INFO  💽 Boot: ⏱ 7 ms
+2023-02-27 06:01:09.588 INFO  💽 Boot: Requesting initialization data from server
+2023-02-27 06:01:10.715 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:01:10.765 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:11.689 INFO  📡 SignalR: Invoking SignalR method InitializeClient at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:17.317 INFO  C# sendEvent loading_requesting_initialization_data_from_server with properties {"session_number":1,"profile_id":0,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":7721}
+2023-02-27 06:01:17.318 INFO  💽 Boot: ⏱ 7721 ms
+2023-02-27 06:01:17.318 INFO  💽 Boot: Initializing user
+2023-02-27 06:01:17.358 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:01:17.416 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:01:22.167 INFO  CacheService: ShortClothesModel| Cache Validation Success
+2023-02-27 06:01:22.172 INFO  CacheService: CollectionModel| Cache Validation Success
+2023-02-27 06:01:22.181 INFO  CacheService: ColorModel| Cache Validation Success
+2023-02-27 06:01:22.181 INFO  CacheService: Saving disabled for HairGroupModel
+2023-02-27 06:01:22.181 INFO  CacheService: Saving disabled for MakeupModel
+2023-02-27 06:01:22.181 INFO  CacheService: Saving disabled for StickerModel
+2023-02-27 06:01:22.184 INFO  CacheService: StyleModel| Cache Validation Success
+2023-02-27 06:01:22.256 INFO  C# sendEvent loading_initializing_user with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":4881}
+2023-02-27 06:01:22.256 INFO  💽 Boot: ⏱ 4881 ms
+2023-02-27 06:01:22.256 INFO  💽 Boot: Initializing TapJoy
+2023-02-27 06:01:22.522 INFO  C# sendEvent loading_initializing_tapjoy with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":259}
+2023-02-27 06:01:22.523 INFO  💽 Boot: ⏱ 259 ms
+2023-02-27 06:01:22.523 INFO  💽 Boot: Initializing advertisement
+2023-02-27 06:01:22.618 INFO  IronSourceAdsService: DaysFromRegistration: 0
+IsPaying: 0
+2023-02-27 06:01:22.618 INFO  IntegrationHelper pluginVersion: 7.2.5.1-r
+2023-02-27 06:01:23.100 INFO  C# sendEvent loading_initializing_advertisement with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":573}
+2023-02-27 06:01:23.101 INFO  💽 Boot: ⏱ 573 ms
+2023-02-27 06:01:23.101 INFO  💽 Boot: Initializing daily bonus
+2023-02-27 06:01:24.206 INFO  C# sendEvent loading_initializing_daily_bonus with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1101}
+2023-02-27 06:01:24.207 INFO  💽 Boot: ⏱ 1101 ms
+2023-02-27 06:01:24.207 INFO  💽 Boot: Loading tutorial bonus
+2023-02-27 06:01:24.498 INFO  C# sendEvent loading_loading_tutorial_bonus with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":286}
+2023-02-27 06:01:24.499 INFO  💽 Boot: ⏱ 286 ms
+2023-02-27 06:01:24.499 INFO  💽 Boot: Reloading tutorial
+2023-02-27 06:01:25.047 INFO  C# sendEvent loading_reloading_tutorial with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":544}
+2023-02-27 06:01:25.047 INFO  💽 Boot: ⏱ 544 ms
+2023-02-27 06:01:25.047 INFO  💽 Boot: Initializing app services
+2023-02-27 06:01:25.236 INFO  C# sendEvent loading_initializing_app_services with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":181}
+2023-02-27 06:01:25.237 INFO  💽 Boot: ⏱ 181 ms
+2023-02-27 06:01:25.237 INFO  💽 Boot: Resolving pending purchases
+2023-02-27 06:01:25.289 INFO  💳 Purchases: No pending purchases
+2023-02-27 06:01:25.293 INFO  C# sendEvent loading_resolving_pending_purchases with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":52}
+2023-02-27 06:01:25.293 INFO  💽 Boot: ⏱ 52 ms
+2023-02-27 06:01:25.293 INFO  💽 Boot: Tracking launch event
+2023-02-27 06:01:25.626 INFO  C# sendEvent launch_start with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024}
+2023-02-27 06:01:25.628 INFO  C# setUserProperty push_notification_enabled, True
+2023-02-27 06:01:25.632 INFO  C# sendEvent loading_tracking_launch_event with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":335}
+2023-02-27 06:01:25.632 INFO  💽 Boot: ⏱ 335 ms
+2023-02-27 06:01:25.632 INFO  💽 Boot: Loading challenges scene
+2023-02-27 06:01:25.912 ERROR AdQualitySdkInit: AdQuality SDK initialization failed :: Error type: CONFIG_LOAD_TIMEOUT
+Message:  ISAdQuality SDK config load timeout
+2023-02-27 06:01:28.253 INFO  Tapjoy: Placement set user id success
+2023-02-27 06:01:29.770 INFO  Tapjoy: currency balance currency: Diamonds balance: 0
+2023-02-27 06:01:45.542 INFO  Contact Support: User pressed Contact support.
+2023-02-27 06:01:45.560 INFO  Local storage integers:
+AppExecutionCount (AppExecutionCount): 1
+AppsFlyerTrackingStatus (AttStateKey_siudhs): -1
+LaunchCount (LaunchTimes): 1
+LocalizationConfigVersion (LocalizationConfig_9uh7sh0djf): 135
+TextureCacheForceCleanIndex (texture_cache): 3
+TutorialStep (TuttorialStep): 0
+CacheExpirationHoursKey (CacheExpirationHours): 12
+2023-02-27 06:01:45.560 INFO  Local storage floats:
+
+2023-02-27 06:01:45.561 INFO  Local storage strings:
+FirstOpenDateTime (FirstOpen): "2023-02-27T08:01:11.679295+02:00"
+2023-02-27 06:01:45.561 INFO  Local storage objects:
+
+2023-02-27 06:01:45.562 INFO  Local storage dates:
+LastSavedClothesDate (LastSavedClothesDate): "2023-02-27T06:01:20.014719Z"
+FirebaseConfigFetchDate (FirebaseConfigFetchDate): "2023-02-27T06:01:01.843+00:00"
+2023-02-27 06:01:48.523 INFO  Local storage dates:
+LastSavedClothes (LastSavedClothes): Dictionary of 7855 items
+2023-02-27 06:01:48.554 INFO  C# sendEvent support_button_click with properties {"session_number":1,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","cache_profile_id":0,"support_place":"Loading"}
+--------------------------------------------------------------------------------
+2023-02-27 06:02:06.878 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:02:07.946 INFO  MessagingController: Schedule notifications
+2023-02-27 06:02:08.667 INFO  IronSourceRewardedVideo: Rewarded video availability changed to the True
+2023-02-27 06:02:12.359 INFO  ChallengeCardListPresenter: Subscribe
+2023-02-27 06:02:12.731 INFO  ScrollerView: Subscribe
+2023-02-27 06:02:12.772 INFO  C# sendEvent loading_loading_challenges_scene with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":47131}
+2023-02-27 06:02:12.783 INFO  💽 Boot: ⏱ 47131 ms
+2023-02-27 06:02:12.783 INFO  💽 Boot: Subscribing to focus change
+2023-02-27 06:02:12.831 INFO  C# sendEvent loading_subscribing_to_focus_change with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":45}
+2023-02-27 06:02:12.832 INFO  💽 Boot: ⏱ 45 ms
+2023-02-27 06:02:12.832 INFO  💽 Boot: Main sequence successfully finished
+2023-02-27 06:02:12.833 INFO  💽 Boot: Starting background sequence
+2023-02-27 06:02:12.833 INFO  💽 Boot: Showing rate us popup
+2023-02-27 06:02:12.837 INFO  C# sendEvent loading_showing_rate_us_popup with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:12.838 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:12.838 INFO  💽 Boot: Tracking tutorial onboarding progress
+2023-02-27 06:02:12.838 INFO  C# sendEvent onboarding_start with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024}
+2023-02-27 06:02:12.841 INFO  C# sendEvent loading_tracking_tutorial_onboarding_progress with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:12.842 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:12.842 INFO  💽 Boot: Tracking main screen open
+2023-02-27 06:02:12.843 INFO  C# sendEvent main_screen_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:02:12.845 INFO  C# sendEvent loading_tracking_main_screen_open with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:12.846 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:12.846 INFO  💽 Boot: Showing streak warning
+2023-02-27 06:02:12.860 INFO  C# sendEvent loading_showing_streak_warning with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":7}
+2023-02-27 06:02:12.861 INFO  💽 Boot: ⏱ 7 ms
+2023-02-27 06:02:12.861 INFO  💽 Boot: Showing news
+2023-02-27 06:02:12.865 INFO  C# sendEvent loading_showing_news with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1}
+2023-02-27 06:02:12.865 INFO  💽 Boot: ⏱ 1 ms
+2023-02-27 06:02:12.866 INFO  💽 Boot: Hide loader
+2023-02-27 06:02:12.869 INFO  C# sendEvent loading_hide_loader with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:12.869 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:12.869 INFO  💽 Boot: Showing special offers
+2023-02-27 06:02:12.874 INFO  C# sendEvent loading_showing_special_offers with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1}
+2023-02-27 06:02:12.874 INFO  💽 Boot: ⏱ 1 ms
+2023-02-27 06:02:12.874 INFO  💽 Boot: Tapping star pass seasons data
+2023-02-27 06:02:12.879 INFO  📡 SignalR: Invoking SignalR method GetStarPassSeasonsData at https://api-prod.suitsme.net/hub
+2023-02-27 06:02:15.397 INFO  C# sendEvent loading_tapping_star_pass_seasons_data with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":2515}
+2023-02-27 06:02:15.398 INFO  💽 Boot: ⏱ 2515 ms
+2023-02-27 06:02:15.398 INFO  💽 Boot: Showing holiday dialog
+2023-02-27 06:02:15.402 INFO  C# sendEvent loading_showing_holiday_dialog with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:15.402 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:15.402 INFO  💽 Boot: Exchanging TapJoy rewards
+2023-02-27 06:02:15.409 INFO  C# sendEvent loading_exchanging_tapjoy_rewards with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":3}
+2023-02-27 06:02:15.409 INFO  💽 Boot: ⏱ 3 ms
+2023-02-27 06:02:15.409 INFO  💽 Boot: Exchanging advertisement rewards
+2023-02-27 06:02:15.412 INFO  C# sendEvent loading_exchanging_advertisement_rewards with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:15.412 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:15.413 INFO  💽 Boot: Handle externally called dialogs
+2023-02-27 06:02:15.415 INFO  C# sendEvent loading_handle_externally_called_dialogs with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:02:15.416 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:02:15.416 INFO  💽 Boot: Handling not claimed rewards
+2023-02-27 06:02:15.421 INFO  C# sendEvent loading_handling_not_claimed_rewards with properties {"session_number":1,"profile_id":4981676,"cache_profile_id":0,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":2}
+2023-02-27 06:02:15.421 INFO  💽 Boot: ⏱ 2 ms
+2023-02-27 06:02:15.421 INFO  💽 Boot: Background sequence Finished
+2023-02-27 06:02:15.421 INFO  💽 Boot: ⏱ Background sequence duration - Total 2588 ms
+2023-02-27 06:02:17.291 INFO  C# sendEvent main_screen_tutorial_challenge_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:02:17.555 INFO  C# sendEvent tutorial_challenge_req_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:02:29.117 INFO  C# sendEvent onboarding_25_passed with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024}
+2023-02-27 06:02:30.243 INFO  C# sendEvent tutorial_dress_up_screen_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:02:37.013 INFO  C# sendEvent tutorial_choose_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:02:37.131 INFO  C# sendEvent tutorial_dresses_list_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:02:45.035 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":8854}
+2023-02-27 06:02:45.949 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:02:49.123 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1107}
+2023-02-27 06:02:50.950 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:02:54.308 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":413}
+2023-02-27 06:02:55.485 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:02.778 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":16453}
+2023-02-27 06:03:03.333 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:05.514 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":8854}
+2023-02-27 06:03:05.761 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:08.213 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1274}
+2023-02-27 06:03:09.132 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:14.080 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1273}
+2023-02-27 06:03:14.701 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:17.212 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1107}
+2023-02-27 06:03:17.559 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:27.330 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":16453}
+2023-02-27 06:03:27.893 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:30.182 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":8854}
+2023-02-27 06:03:30.411 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:31.533 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":4391}
+2023-02-27 06:03:32.286 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:35.178 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1274}
+2023-02-27 06:03:35.494 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:42.133 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1273}
+2023-02-27 06:03:42.496 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:44.144 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1107}
+2023-02-27 06:03:44.465 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:46.494 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":413}
+2023-02-27 06:03:46.679 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:48.870 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":16453}
+2023-02-27 06:03:49.444 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:52.247 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1274}
+2023-02-27 06:03:52.613 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:56.043 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":4391}
+2023-02-27 06:03:56.199 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:03:57.198 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":16453}
+2023-02-27 06:03:57.378 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:04:08.297 INFO  C# sendEvent tutorial_dress_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1274}
+2023-02-27 06:04:08.479 INFO  C# sendEvent tutorial_dress_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:04:12.968 INFO  C# sendEvent tutorial_back_button_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"back_type":"from DressUp to CategorySelect"}
+2023-02-27 06:04:12.971 INFO  C# sendEvent tutorial_choose_hair_screen_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:15.847 INFO  C# sendEvent tutorial_choose_hair_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:15.858 INFO  C# sendEvent tutorial_hair_list_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:18.002 INFO  C# sendEvent tutorial_hair_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:18.009 INFO  C# sendEvent tutorial_hair_colors_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:21.732 INFO  C# sendEvent tutorial_back_button_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"back_type":"from HairColor to CategorySelect"}
+2023-02-27 06:04:21.733 INFO  C# sendEvent tutorial_choose_shoes_screen_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:34.265 INFO  C# sendEvent tutorial_choose_shoes_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:34.325 INFO  C# sendEvent tutorial_shoes_list_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:36.981 INFO  C# sendEvent tutorial_shoes_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":8525}
+2023-02-27 06:04:37.237 INFO  C# sendEvent tutorial_shoes_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:04:44.402 INFO  C# sendEvent tutorial_shoes_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":1116}
+2023-02-27 06:04:44.729 INFO  C# sendEvent tutorial_shoes_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:04:51.942 INFO  C# sendEvent tutorial_shoes_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"clothes_id":8560}
+2023-02-27 06:04:52.559 INFO  C# sendEvent tutorial_shoes_up with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1,"dress_state":"On"}
+2023-02-27 06:04:57.254 INFO  C# sendEvent tutorial_look_click_OK with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:04:57.822 INFO  C# sendEvent tutorial_look_completed_screen_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:00.164 INFO  C# sendEvent tutorial_look_completed_screen_click_OK with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":0,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:00.443 INFO  📡 SignalR: Invoking SignalR method SubmitLook at https://api-prod.suitsme.net/hub
+2023-02-27 06:05:05.441 INFO  C# sendEvent onboarding_50_passed with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024}
+2023-02-27 06:05:05.460 INFO  📡 SignalR: Invoking SignalR method GetFullUserDetails at https://api-prod.suitsme.net/hub
+2023-02-27 06:05:06.068 INFO  C# sendEvent tutorial_reward_screen_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:11.529 INFO  C# sendEvent tutorial_reward_screen_click_collect with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:12.903 INFO  📡 SignalR: Invoking SignalR method GetAllChallenges at https://api-prod.suitsme.net/hub
+2023-02-27 06:05:12.969 INFO  C# sendEvent main_screen_check_results_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:17.533 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 22 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:19.075 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 22 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:19.201 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:19.265 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:19.332 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:19.608 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 901 Mb
+2023-02-27 06:05:19.705 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 898 Mb
+2023-02-27 06:05:19.814 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 896 Mb
+2023-02-27 06:05:20.004 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 893 Mb
+2023-02-27 06:05:20.596 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 322 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:20.716 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 327 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:20.812 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 321 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:20.877 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 321 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:21.043 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 320 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:21.171 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 320 Mb
+Available disk space: 902 Mb
+2023-02-27 06:05:21.858 INFO  C# sendEvent main_screen_check_results_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:26.035 INFO  SocialSignIn: LoggedInByStorage False
+2023-02-27 06:05:26.035 INFO  SocialSignIn: LoggedInByFirebase False
+2023-02-27 06:05:26.041 INFO  SettingsLoginBlockView: SpawnAllButtons provider : Apple
+2023-02-27 06:05:26.043 INFO  SettingsLoginBlockView: SpawnAllButtons provider : Facebook
+2023-02-27 06:05:29.393 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 320 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:29.505 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 22 Mb
+Total reserved RAM: 320 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:29.562 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 320 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:31.445 INFO  C# sendEvent tutorial_voting_results_screen_click with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:31.601 INFO  📡 SignalR: Invoking SignalR method ClaimChallengeRewards at https://api-prod.suitsme.net/hub
+2023-02-27 06:05:31.642 INFO  C# sendEvent tutorial_voting_results_reward_open with properties {"user_level":1,"profile_id":4981676,"closet_value":0,"current_diamonds_balance":0,"current_keys_balance":0,"current_coins_balance":50,"current_ironsource_balance":0,"session_number":1,"get_diamond_currency":4100,"get_coin_currency":2000,"clothes_id":[5059,520,1024,1065,267],"clothes_price":[380,240,190,120,300],"clothes_currency":["coin","coin","coin","coin","diamond"]}
+2023-02-27 06:05:36.454 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 325 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:36.546 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 22 Mb
+Total reserved RAM: 325 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:37.518 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 21 Mb
+Total reserved RAM: 325 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:42.651 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 22 Mb
+Total reserved RAM: 327 Mb
+Available disk space: 906 Mb
+2023-02-27 06:05:45.634 INFO  📡 SignalR: Invoking SignalR method MarkChallengeViewed at https://api-prod.suitsme.net/hub
+2023-02-27 06:05:46.407 INFO  C# sendEvent voting_results_reward_collect with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2050,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:47.636 INFO  C# sendEvent tutorial_voting_results_place_open with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2050,"current_ironsource_balance":0,"session_number":1}
+2023-02-27 06:05:48.104 INFO  C# sendEvent rate_us_pop_up_open with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2050,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024,"open_from":"OnFirstPlace","custom":false}
+2023-02-27 06:05:48.117 INFO  C# sendEvent onboarding_75_passed with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2050,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024}
+2023-02-27 06:05:48.654 INFO  C# sendEvent level_up with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2050,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024,"get_coin_currency":60,"makeup_id":[36],"makeup_price":[0],"makeup_currency":["coin"],"hair_id":[13,12,10,11],"hair_price":[0,0,0,0],"hair_currency":["coin","coin","coin","coin"]}
+2023-02-27 06:05:48.747 INFO  📡 SignalR: Invoking SignalR method ClaimLevelRewards at https://api-prod.suitsme.net/hub
+2023-02-27 06:05:48.857 INFO  C# sendEvent onboarding_finish with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2050,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":1,"starpass_value":"0","season_id":1024}
+2023-02-27 06:05:50.544 INFO  SocialSignIn: LoggedInByStorage False
+2023-02-27 06:05:50.544 INFO  SocialSignIn: LoggedInByFirebase False
+================================================================================
+2023-02-27 06:06:04.208 INFO  🔥 Firebase Initializer: Initiated Firebase App initialization
+2023-02-27 06:06:04.951 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:06:05.286 INFO  🔥 Firebase Initializer: Registered dependent service RemoteConfigFirebaseService for initialization
+2023-02-27 06:06:05.289 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:06:05.290 INFO  🔥 Firebase Initializer: Asynchronous Firebase initialization in progress, will retry after it, exiting now
+2023-02-27 06:06:05.343 INFO  Purchase handle subscription
+2023-02-27 06:06:07.853 INFO  💽 Boot: Starting main boot sequence
+2023-02-27 06:06:07.855 INFO  💽 Boot: Application version: 1.11.1
+2023-02-27 06:06:07.860 INFO  💽 Boot: Increasing session number
+2023-02-27 06:06:07.880 INFO  🔥 Firebase Initializer: CheckAndFixDependenciesAsync complete, proceeding with custom calls
+2023-02-27 06:06:08.931 INFO  🔥 Firebase Initializer: IsCrashlyticsCollectionEnabled flag status: True
+2023-02-27 06:06:08.932 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:06:08.932 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 06:06:08.932 INFO  🔥 Firebase Initializer: Initializing dependent service RemoteConfigFirebaseService
+2023-02-27 06:06:08.932 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 06:06:08.932 INFO  🔥 Firebase Initializer: Enabling Crashlytics logger
+2023-02-27 06:06:09.293 INFO  💽 Boot: ⏱ 1428 ms
+2023-02-27 06:06:09.293 INFO  💽 Boot: Unsubscribing to focus change
+2023-02-27 06:06:09.393 INFO  FCM: registration token received, but no listener set yet - cached the token.
+2023-02-27 06:06:09.415 INFO  💽 Boot: ⏱ 122 ms
+2023-02-27 06:06:09.416 INFO  💽 Boot: Checking internet reachability
+2023-02-27 06:06:09.450 INFO  💽 Boot: ⏱ 34 ms
+2023-02-27 06:06:09.450 INFO  💽 Boot: Requesting tracking status
+2023-02-27 06:06:09.485 INFO  💽 Boot: ⏱ 34 ms
+2023-02-27 06:06:09.485 INFO  💽 Boot: Initializing analytics
+2023-02-27 06:06:09.523 INFO  C# trackSessionEvents True
+2023-02-27 06:06:09.523 INFO  C# init 3318d45f631d8ab1aa2935e552f968db
+2023-02-27 06:06:09.524 INFO  🔥 Firebase Initializer: Registered dependent service FirebaseAnalyticService for initialization
+2023-02-27 06:06:09.524 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:06:09.524 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 06:06:09.524 INFO  🔥 Firebase Initializer: Initializing dependent service FirebaseAnalyticService
+2023-02-27 06:06:09.525 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 06:06:09.527 INFO  💽 Boot: ⏱ 41 ms
+2023-02-27 06:06:09.527 INFO  💽 Boot: Increasing app execution count
+2023-02-27 06:06:09.550 INFO  💽 Boot: ⏱ 22 ms
+2023-02-27 06:06:09.550 INFO  💽 Boot: Configuring adaptive performance
+2023-02-27 06:06:09.589 INFO  💽 Boot: ⏱ 39 ms
+2023-02-27 06:06:09.590 INFO  💽 Boot: Resetting log files
+--------------------------------------------------------------------------------
+2023-02-27 06:06:09.600 INFO  💽 Boot: ⏱ 9 ms
+2023-02-27 06:06:09.605 INFO  💽 Boot: Init Unity Game Services
+2023-02-27 06:06:11.139 INFO  💽 Boot: ⏱ 1534 ms
+2023-02-27 06:06:11.140 INFO  💽 Boot: Fetching remote config
+2023-02-27 06:06:11.177 INFO  🎇 RemoteConfigFirebaseService: Firebase installation time: ⏱ 9 ms
+2023-02-27 06:06:11.926 WARN  LowMemory: Low memory on device!
+Unused reserved RAM: 13 Mb
+Total reserved RAM: 95 Mb
+Available disk space: 877 Mb
+2023-02-27 06:06:12.168 INFO  Creating RemoteConfig 0x10b1a7050 for App __FIRAPP_DEFAULT
+2023-02-27 06:06:12.200 INFO  🎇 RemoteConfigFirebaseService: Firebase fetch time: ⏱ 1023 ms
+2023-02-27 06:06:12.206 INFO  🎇 RemoteConfigFirebaseService: Getting config provider time: ⏱ 5 ms
+2023-02-27 06:06:12.935 INFO  🎇 RemoteConfigFirebaseService: Data parsing time: ⏱ 728 ms
+2023-02-27 06:06:12.935 INFO  💽 Boot: ⏱ 1795 ms
+2023-02-27 06:06:12.935 INFO  💽 Boot: Initializing localization
+2023-02-27 06:06:12.975 INFO  C# sendEvent loading_initializing_localization with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":31}
+2023-02-27 06:06:12.980 INFO  💽 Boot: ⏱ 31 ms
+2023-02-27 06:06:12.980 INFO  💽 Boot: Checking for app update or maintenance
+2023-02-27 06:06:13.004 INFO  C# sendEvent loading_checking_for_app_update_or_maintenance with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":19}
+2023-02-27 06:06:13.005 INFO  💽 Boot: ⏱ 19 ms
+2023-02-27 06:06:13.005 INFO  💽 Boot: Initializing messaging
+2023-02-27 06:06:13.016 INFO  🔥 Firebase Initializer: Registered dependent service IOSFirebaseMessaging for initialization
+2023-02-27 06:06:13.017 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 06:06:13.017 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 06:06:13.017 INFO  🔥 Firebase Initializer: Initializing dependent service IOSFirebaseMessaging
+2023-02-27 06:06:13.019 INFO  Messaging: Firebase Messaging Initialized
+2023-02-27 06:06:13.019 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 06:06:13.020 INFO  Messaging: Received local notifications: 0
+2023-02-27 06:06:13.095 INFO  FCM: Initialize Firebase Messaging
+2023-02-27 06:06:13.096 INFO  FCM: Using FCM senderID 104875579061
+2023-02-27 06:06:13.139 INFO  FCM: new registration token received.
+2023-02-27 06:06:13.139 INFO  FCM: Retrieve registration token
+2023-02-27 06:06:13.139 INFO  queued token f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 06:06:13.140 INFO  sending token f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 06:06:13.140 INFO  FCM: Retrieve registration token
+2023-02-27 06:06:13.140 WARN  Messaging: Received Registration Token: f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 06:06:13.375 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:06:13.386 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:06:13.388 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:06:13.388 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 06:06:13.397 INFO  C# sendEvent loading_initializing_messaging with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":386}
+2023-02-27 06:06:13.397 INFO  💽 Boot: ⏱ 386 ms
+2023-02-27 06:06:13.397 INFO  💽 Boot: Requesting advertisement identifier
+2023-02-27 06:06:13.439 INFO  C# sendEvent loading_requesting_advertisement_identifier with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":39}
+2023-02-27 06:06:13.440 INFO  💽 Boot: ⏱ 39 ms
+2023-02-27 06:06:13.440 INFO  💽 Boot: Initializing Facebook
+2023-02-27 06:06:13.481 INFO  Using Facebook Unity SDK v11.0.0 with FBiOSSDK/11.1.0
+2023-02-27 06:06:13.519 INFO  C# sendEvent loading_initializing_facebook with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":76}
+2023-02-27 06:06:13.520 INFO  💽 Boot: ⏱ 76 ms
+2023-02-27 06:06:13.520 INFO  💽 Boot: Tracking init start event
+2023-02-27 06:06:13.533 INFO  C# sendEvent build_init_start with properties {}
+2023-02-27 06:06:13.538 INFO  C# sendEvent loading_tracking_init_start_event with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":14}
+2023-02-27 06:06:13.539 INFO  💽 Boot: ⏱ 14 ms
+2023-02-27 06:06:13.539 INFO  💽 Boot: Deleting old log files
+2023-02-27 06:06:13.557 INFO  C# sendEvent loading_deleting_old_log_files with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":15}
+2023-02-27 06:06:13.558 INFO  💽 Boot: ⏱ 15 ms
+2023-02-27 06:06:13.558 INFO  💽 Boot: Opening server connection
+2023-02-27 06:06:13.589 INFO  🧊 Unity In-App: Notified about initialization success by Unity
+2023-02-27 06:06:13.617 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:14.827 INFO  C# sendEvent loading_opening_server_connection with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1261}
+2023-02-27 06:06:14.828 INFO  💽 Boot: ⏱ 1261 ms
+2023-02-27 06:06:14.828 INFO  💽 Boot: Validating client time
+2023-02-27 06:06:14.837 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:15.103 INFO  C# sendEvent loading_validating_client_time with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":265}
+2023-02-27 06:06:15.103 INFO  💽 Boot: ⏱ 265 ms
+2023-02-27 06:06:15.103 INFO  💽 Boot: Logging user in
+2023-02-27 06:06:15.126 INFO  Autorization: Login with cached token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXBpMSIsImFwaTEiXSwiY2xpZW50X2lkIjoiTW9iaWxlQXBwIiwic3ViIjoiMjE1ZTRiZmMtNzI0MS00NjI1LWIzMmQtNTUyMGUxM2FmMjJlIiwiaWQiOiI0OTgxNjc2Iiwicm9sZSI6IlBsYXllciIsInNjb3BlIjoiYXBpMSIsIm5iZiI6MTY3NzQ3NzY2OSwiZXhwIjoxOTkyODM3NjY5LCJpYXQiOjE2Nzc0Nzc2NjksImlzcyI6IlByb2R1Y3Rpb25TZXJ2ZXIifQ.wDR6ZVTYV-OdaSkPfqjwVY5ARwuLo-KV-iVI8W-uil8
+2023-02-27 06:06:15.127 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:06:15.219 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:16.341 INFO  💽 Boot Login Flow: Login with access token
+2023-02-27 06:06:16.360 INFO  C# sendEvent loading_logging_user_in with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1237}
+2023-02-27 06:06:16.361 INFO  💽 Boot: ⏱ 1237 ms
+2023-02-27 06:06:16.361 INFO  💽 Boot: Set device id
+2023-02-27 06:06:16.371 INFO  C# setOnceUserProperty player_id, 0A97B434-5EA1-426A-A3B1-D1526B833071
+2023-02-27 06:06:16.372 WARN  FirebaseAnalytic: IUserPropertyService SetOnce function work as Set function
+2023-02-27 06:06:16.377 INFO  C# sendEvent loading_set_device_id with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":11}
+2023-02-27 06:06:16.377 INFO  💽 Boot: ⏱ 11 ms
+2023-02-27 06:06:16.377 INFO  💽 Boot: Initializing Bank
+2023-02-27 06:06:16.388 INFO  C# sendEvent loading_initializing_bank with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":5}
+2023-02-27 06:06:16.389 INFO  💽 Boot: ⏱ 5 ms
+2023-02-27 06:06:16.389 INFO  💽 Boot: Subscribing for push token receiving
+2023-02-27 06:06:16.402 INFO  📡 SignalR: Invoking method UpdatePushToken at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:16.428 INFO  C# sendEvent loading_subscribing_for_push_token_receiving with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":36}
+2023-02-27 06:06:16.429 INFO  💽 Boot: ⏱ 36 ms
+2023-02-27 06:06:16.429 INFO  💽 Boot: Subscribing for custom attribution data
+2023-02-27 06:06:16.436 INFO  C# sendEvent loading_subscribing_for_custom_attribution_data with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":3}
+2023-02-27 06:06:16.436 INFO  💽 Boot: ⏱ 3 ms
+2023-02-27 06:06:16.436 INFO  💽 Boot: Requesting initialization data from server
+2023-02-27 06:06:16.652 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:06:16.699 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:19.997 INFO  📡 SignalR: Invoking SignalR method InitializeClient at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:22.613 INFO  C# sendEvent loading_requesting_initialization_data_from_server with properties {"session_number":2,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":6170}
+2023-02-27 06:06:22.614 INFO  💽 Boot: ⏱ 6170 ms
+2023-02-27 06:06:22.614 INFO  💽 Boot: Initializing user
+2023-02-27 06:06:22.648 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:06:22.700 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:27.383 INFO  CacheService: ShortClothesModel| Cache Validation Success
+2023-02-27 06:06:27.388 INFO  CacheService: CollectionModel| Cache Validation Success
+2023-02-27 06:06:27.400 INFO  CacheService: ColorModel| Cache Validation Success
+2023-02-27 06:06:27.400 INFO  CacheService: Saving disabled for HairGroupModel
+2023-02-27 06:06:27.400 INFO  CacheService: Saving disabled for MakeupModel
+2023-02-27 06:06:27.401 INFO  CacheService: Saving disabled for StickerModel
+2023-02-27 06:06:27.404 INFO  CacheService: StyleModel| Cache Validation Success
+2023-02-27 06:06:27.424 INFO  C# sendEvent loading_initializing_user with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":4800}
+2023-02-27 06:06:27.424 INFO  💽 Boot: ⏱ 4800 ms
+2023-02-27 06:06:27.424 INFO  💽 Boot: Initializing TapJoy
+2023-02-27 06:06:27.644 INFO  C# sendEvent loading_initializing_tapjoy with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":214}
+2023-02-27 06:06:27.645 INFO  💽 Boot: ⏱ 214 ms
+2023-02-27 06:06:27.645 INFO  💽 Boot: Initializing advertisement
+2023-02-27 06:06:27.731 INFO  IronSourceAdsService: DaysFromRegistration: 0
+IsPaying: 0
+2023-02-27 06:06:27.731 INFO  IntegrationHelper pluginVersion: 7.2.5.1-r
+2023-02-27 06:06:28.110 INFO  C# sendEvent loading_initializing_advertisement with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":461}
+2023-02-27 06:06:28.110 INFO  💽 Boot: ⏱ 461 ms
+2023-02-27 06:06:28.110 INFO  💽 Boot: Initializing daily bonus
+2023-02-27 06:06:28.496 INFO  C# sendEvent loading_initializing_daily_bonus with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":380}
+2023-02-27 06:06:28.497 INFO  💽 Boot: ⏱ 380 ms
+2023-02-27 06:06:28.497 INFO  💽 Boot: Loading tutorial bonus
+2023-02-27 06:06:28.548 INFO  C# sendEvent loading_loading_tutorial_bonus with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":45}
+2023-02-27 06:06:28.549 INFO  💽 Boot: ⏱ 45 ms
+2023-02-27 06:06:28.550 INFO  💽 Boot: Reloading tutorial
+2023-02-27 06:06:28.574 INFO  C# sendEvent loading_reloading_tutorial with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":16}
+2023-02-27 06:06:28.574 INFO  💽 Boot: ⏱ 16 ms
+2023-02-27 06:06:28.575 INFO  💽 Boot: Initializing app services
+2023-02-27 06:06:28.623 INFO  C# sendEvent loading_initializing_app_services with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":43}
+2023-02-27 06:06:28.627 INFO  💽 Boot: ⏱ 43 ms
+2023-02-27 06:06:28.627 INFO  💽 Boot: Resolving pending purchases
+2023-02-27 06:06:28.651 INFO  💳 Purchases: No pending purchases
+2023-02-27 06:06:28.654 INFO  C# sendEvent loading_resolving_pending_purchases with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":24}
+2023-02-27 06:06:28.654 INFO  💽 Boot: ⏱ 24 ms
+2023-02-27 06:06:28.654 INFO  💽 Boot: Tracking launch event
+2023-02-27 06:06:28.670 INFO  C# sendEvent launch_start with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2110,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":2,"starpass_value":"0","season_id":1024}
+2023-02-27 06:06:28.672 INFO  C# setUserProperty push_notification_enabled, True
+2023-02-27 06:06:28.676 INFO  C# sendEvent loading_tracking_launch_event with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":18}
+2023-02-27 06:06:28.679 INFO  💽 Boot: ⏱ 18 ms
+2023-02-27 06:06:28.679 INFO  💽 Boot: Loading challenges scene
+2023-02-27 06:06:31.046 ERROR AdQualitySdkInit: AdQuality SDK initialization failed :: Error type: CONFIG_LOAD_TIMEOUT
+Message:  ISAdQuality SDK config load timeout
+2023-02-27 06:06:44.716 INFO  ChallengeCardListPresenter: Subscribe
+2023-02-27 06:06:44.951 INFO  ScrollerView: Subscribe
+2023-02-27 06:06:44.996 INFO  C# sendEvent loading_loading_challenges_scene with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":16302}
+2023-02-27 06:06:44.999 INFO  💽 Boot: ⏱ 16302 ms
+2023-02-27 06:06:44.999 INFO  💽 Boot: Subscribing to focus change
+2023-02-27 06:06:45.045 INFO  C# sendEvent loading_subscribing_to_focus_change with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":42}
+2023-02-27 06:06:45.046 INFO  💽 Boot: ⏱ 42 ms
+2023-02-27 06:06:45.046 INFO  💽 Boot: Main sequence successfully finished
+2023-02-27 06:06:45.046 INFO  💽 Boot: Starting background sequence
+2023-02-27 06:06:45.046 INFO  💽 Boot: Showing rate us popup
+2023-02-27 06:06:45.053 INFO  C# sendEvent loading_showing_rate_us_popup with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:06:45.053 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:06:45.053 INFO  💽 Boot: Tracking tutorial onboarding progress
+2023-02-27 06:06:45.057 INFO  C# sendEvent loading_tracking_tutorial_onboarding_progress with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:06:45.057 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:06:45.057 INFO  💽 Boot: Tracking main screen open
+2023-02-27 06:06:45.060 INFO  C# sendEvent loading_tracking_main_screen_open with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:06:45.060 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:06:45.060 INFO  💽 Boot: Showing streak warning
+2023-02-27 06:06:45.065 INFO  C# sendEvent loading_showing_streak_warning with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1}
+2023-02-27 06:06:45.066 INFO  💽 Boot: ⏱ 1 ms
+2023-02-27 06:06:45.066 INFO  💽 Boot: Showing news
+2023-02-27 06:06:45.069 INFO  📡 SignalR: Invoking SignalR method GetPopupMetadata at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:45.428 INFO  Tapjoy: Placement set user id success
+2023-02-27 06:06:46.353 INFO  C# sendEvent loading_showing_news with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1224}
+2023-02-27 06:06:46.359 INFO  💽 Boot: ⏱ 1224 ms
+2023-02-27 06:06:46.359 INFO  💽 Boot: Hide loader
+2023-02-27 06:06:46.364 INFO  C# sendEvent loading_hide_loader with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1}
+2023-02-27 06:06:46.365 INFO  💽 Boot: ⏱ 1 ms
+2023-02-27 06:06:46.365 INFO  💽 Boot: Showing special offers
+2023-02-27 06:06:46.422 INFO  C# sendEvent loading_showing_special_offers with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":50}
+2023-02-27 06:06:46.422 INFO  💽 Boot: ⏱ 50 ms
+2023-02-27 06:06:46.422 INFO  💽 Boot: Tapping star pass seasons data
+2023-02-27 06:06:46.424 INFO  📡 SignalR: Invoking SignalR method GetStarPassSeasonsData at https://api-prod.suitsme.net/hub
+2023-02-27 06:06:47.168 INFO  C# sendEvent loading_tapping_star_pass_seasons_data with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":738}
+2023-02-27 06:06:47.170 INFO  💽 Boot: ⏱ 738 ms
+2023-02-27 06:06:47.170 INFO  💽 Boot: Showing holiday dialog
+2023-02-27 06:06:47.174 INFO  C# sendEvent loading_showing_holiday_dialog with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1}
+2023-02-27 06:06:47.175 INFO  💽 Boot: ⏱ 1 ms
+2023-02-27 06:06:47.175 INFO  💽 Boot: Exchanging TapJoy rewards
+2023-02-27 06:06:47.187 INFO  C# sendEvent loading_exchanging_tapjoy_rewards with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":9}
+2023-02-27 06:06:47.188 INFO  💽 Boot: ⏱ 9 ms
+2023-02-27 06:06:47.188 INFO  💽 Boot: Exchanging advertisement rewards
+2023-02-27 06:06:47.203 INFO  C# sendEvent loading_exchanging_advertisement_rewards with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":4}
+2023-02-27 06:06:47.204 INFO  💽 Boot: ⏱ 4 ms
+2023-02-27 06:06:47.204 INFO  💽 Boot: Handle externally called dialogs
+2023-02-27 06:06:47.213 INFO  C# sendEvent loading_handle_externally_called_dialogs with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":0}
+2023-02-27 06:06:47.213 INFO  💽 Boot: ⏱ 0 ms
+2023-02-27 06:06:47.213 INFO  💽 Boot: Handling not claimed rewards
+2023-02-27 06:06:47.218 INFO  C# sendEvent loading_handling_not_claimed_rewards with properties {"session_number":2,"profile_id":4981676,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":1}
+2023-02-27 06:06:47.219 INFO  💽 Boot: ⏱ 1 ms
+2023-02-27 06:06:47.219 INFO  💽 Boot: Background sequence Finished
+2023-02-27 06:06:47.219 INFO  💽 Boot: ⏱ Background sequence duration - Total 2172 ms
+2023-02-27 06:06:49.727 INFO  Tapjoy: currency balance currency: Diamonds balance: 0
+2023-02-27 06:06:56.905 INFO  C# sendEvent card_challenge_click with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2110,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":2,"starpass_value":"0","season_id":1024,"challenge_id":14333}
+2023-02-27 06:06:57.753 INFO  IronSourceRewardedVideo: Rewarded video availability changed to the True
+2023-02-27 06:09:25.003 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:09:25.015 INFO  Handling focus change False
+2023-02-27 06:09:25.073 INFO  ⭐ StarPass: Star Pass timed updated successfully canceled
+2023-02-27 06:09:25.073 INFO  Successfully finished focus change flow
+2023-02-27 06:09:26.884 INFO  MessagingController: Schedule notifications
+2023-02-27 06:09:26.890 INFO  Handling focus change True
+2023-02-27 06:09:26.890 INFO  Application focus restored, reconnecting to server...
+2023-02-27 06:09:26.893 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:09:26.956 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:09:26.957 INFO  Handling focus change False
+2023-02-27 06:09:26.957 INFO  Successfully finished focus change flow
+2023-02-27 06:11:06.030 INFO  MessagingController: Schedule notifications
+2023-02-27 06:11:06.038 INFO  Handling focus change True
+2023-02-27 06:11:06.039 INFO  Application focus restored, reconnecting to server...
+2023-02-27 06:11:06.681 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:11:08.260 INFO  Successfully restored server connection
+2023-02-27 06:11:08.260 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 06:11:08.276 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:11:08.326 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:11:09.817 INFO  Successfully restored server connection
+2023-02-27 06:11:09.818 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 06:11:10.208 INFO  Successfully finished focus change flow
+2023-02-27 06:11:10.407 INFO  ⭐ StarPass: Star Pass timed updated successfully canceled
+2023-02-27 06:11:10.407 INFO  Successfully finished focus change flow
+2023-02-27 06:11:13.540 INFO  BaseWearingItem: item loading canceled - url: https://static-prod.suitsme.net/clothes/0000000001_fullfront.png?v4
+2023-02-27 06:11:13.542 WARN  Wearing: Look Update Was Canceled!
+2023-02-27 06:11:13.774 INFO  BaseWearingItem: item loading canceled - url: https://static-prod.suitsme.net/clothes/0000031000_fullfront.png?v4
+2023-02-27 06:11:13.774 WARN  Wearing: Look Update Was Canceled!
+2023-02-27 06:11:14.041 INFO  BaseWearingItem: item loading canceled - url: https://static-prod.suitsme.net/clothes/0000031000_fullfront.png?v4
+2023-02-27 06:11:14.042 WARN  Wearing: Look Update Was Canceled!
+2023-02-27 06:12:33.253 INFO  C# sendEvent challenge_wrong_dress_code with properties {"user_level":2,"profile_id":4981676,"closet_value":1230,"current_diamonds_balance":4100,"current_keys_balance":0,"current_coins_balance":2110,"current_ironsource_balance":0,"current_tapjoy_balance":0,"session_number":2,"starpass_value":"0","season_id":1024,"challenge_id":14333}
+2023-02-27 06:15:45.111 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:15:45.130 INFO  Handling focus change False
+2023-02-27 06:15:45.141 INFO  ⭐ StarPass: Star Pass timed updated successfully canceled
+2023-02-27 06:15:45.142 INFO  Successfully finished focus change flow
+2023-02-27 06:15:46.445 INFO  MessagingController: Schedule notifications
+2023-02-27 06:15:46.446 INFO  Handling focus change True
+2023-02-27 06:15:46.446 INFO  Application focus restored, reconnecting to server...
+2023-02-27 06:15:46.447 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:15:46.524 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:15:46.529 INFO  Handling focus change False
+2023-02-27 06:15:46.530 INFO  Successfully finished focus change flow
+2023-02-27 06:15:48.151 INFO  MessagingController: Schedule notifications
+2023-02-27 06:15:48.152 INFO  Handling focus change True
+2023-02-27 06:15:48.152 INFO  Application focus restored, reconnecting to server...
+2023-02-27 06:15:48.418 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:16:00.815 INFO  Successfully restored server connection
+2023-02-27 06:16:00.815 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 06:16:00.942 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:16:01.077 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 06:16:03.026 INFO  Successfully restored server connection
+2023-02-27 06:16:03.026 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 06:16:03.240 INFO  Successfully finished focus change flow
+2023-02-27 06:16:03.525 INFO  ⭐ StarPass: Star Pass timed updated successfully canceled
+2023-02-27 06:16:03.525 INFO  Successfully finished focus change flow
+2023-02-27 06:16:10.367 INFO  BaseWearingItem: item loading canceled - url: https://static-prod.suitsme.net/clothes/0000000900_fullfront.png?v4
+2023-02-27 06:16:10.368 INFO  BaseWearingItem: item loading canceled - url: https://static-prod.suitsme.net/clothes/0000000900_fullsleeves.png?v4
+2023-02-27 06:16:10.368 WARN  Wearing: Look Update Was Canceled!
+2023-02-27 06:19:04.121 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:19:04.135 INFO  Handling focus change False
+2023-02-27 06:19:04.140 INFO  ⭐ StarPass: Star Pass timed updated successfully canceled
+2023-02-27 06:19:04.140 INFO  Successfully finished focus change flow
+2023-02-27 06:20:35.675 INFO  MessagingController: Schedule notifications
+2023-02-27 06:20:35.677 INFO  Handling focus change True
+2023-02-27 06:20:35.677 INFO  Application focus restored, reconnecting to server...
+2023-02-27 06:20:35.680 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 06:20:38.467 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 06:20:38.472 INFO  Handling focus change False
+2023-02-27 06:20:38.486 INFO  Successfully finished focus change flow
+================================================================================
+2023-02-27 07:01:51.992 INFO  🔥 Firebase Initializer: Initiated Firebase App initialization
+2023-02-27 07:01:52.499 INFO  MessagingController: Cancel all Push notifications...
+2023-02-27 07:01:52.750 INFO  🔥 Firebase Initializer: Registered dependent service RemoteConfigFirebaseService for initialization
+2023-02-27 07:01:52.754 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 07:01:52.754 INFO  🔥 Firebase Initializer: Asynchronous Firebase initialization in progress, will retry after it, exiting now
+2023-02-27 07:01:52.799 INFO  Purchase handle subscription
+2023-02-27 07:01:54.105 INFO  💽 Boot: Starting main boot sequence
+2023-02-27 07:01:54.105 INFO  💽 Boot: Application version: 1.11.1
+2023-02-27 07:01:54.107 INFO  💽 Boot: Increasing session number
+2023-02-27 07:01:54.112 INFO  🔥 Firebase Initializer: CheckAndFixDependenciesAsync complete, proceeding with custom calls
+2023-02-27 07:01:54.263 INFO  🔥 Firebase Initializer: IsCrashlyticsCollectionEnabled flag status: True
+2023-02-27 07:01:54.264 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 07:01:54.264 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 07:01:54.264 INFO  🔥 Firebase Initializer: Initializing dependent service RemoteConfigFirebaseService
+2023-02-27 07:01:54.264 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 07:01:54.264 INFO  🔥 Firebase Initializer: Enabling Crashlytics logger
+2023-02-27 07:01:54.401 INFO  💽 Boot: ⏱ 293 ms
+2023-02-27 07:01:54.401 INFO  💽 Boot: Unsubscribing to focus change
+2023-02-27 07:01:54.520 INFO  💽 Boot: ⏱ 118 ms
+2023-02-27 07:01:54.520 INFO  💽 Boot: Checking internet reachability
+2023-02-27 07:01:54.535 INFO  FCM: registration token received, but no listener set yet - cached the token.
+2023-02-27 07:01:54.553 INFO  💽 Boot: ⏱ 33 ms
+2023-02-27 07:01:54.554 INFO  💽 Boot: Requesting tracking status
+2023-02-27 07:01:54.587 INFO  💽 Boot: ⏱ 33 ms
+2023-02-27 07:01:54.587 INFO  💽 Boot: Initializing analytics
+2023-02-27 07:01:54.625 INFO  C# trackSessionEvents True
+2023-02-27 07:01:54.625 INFO  C# init 3318d45f631d8ab1aa2935e552f968db
+2023-02-27 07:01:54.629 INFO  🔥 Firebase Initializer: Registered dependent service FirebaseAnalyticService for initialization
+2023-02-27 07:01:54.629 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 07:01:54.629 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 07:01:54.629 INFO  🔥 Firebase Initializer: Initializing dependent service FirebaseAnalyticService
+2023-02-27 07:01:54.630 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 07:01:54.630 INFO  💽 Boot: ⏱ 43 ms
+2023-02-27 07:01:54.631 INFO  💽 Boot: Increasing app execution count
+2023-02-27 07:01:54.654 INFO  💽 Boot: ⏱ 23 ms
+2023-02-27 07:01:54.655 INFO  💽 Boot: Configuring adaptive performance
+2023-02-27 07:01:54.687 INFO  💽 Boot: ⏱ 32 ms
+2023-02-27 07:01:54.687 INFO  💽 Boot: Resetting log files
+--------------------------------------------------------------------------------
+2023-02-27 07:01:54.703 INFO  💽 Boot: ⏱ 15 ms
+2023-02-27 07:01:54.706 INFO  💽 Boot: Init Unity Game Services
+2023-02-27 07:01:55.580 INFO  💽 Boot: ⏱ 873 ms
+2023-02-27 07:01:55.580 INFO  💽 Boot: Fetching remote config
+2023-02-27 07:01:55.605 INFO  🎇 RemoteConfigFirebaseService: Firebase installation time: ⏱ 1 ms
+2023-02-27 07:01:56.298 INFO  Creating RemoteConfig 0x11fd617f0 for App __FIRAPP_DEFAULT
+2023-02-27 07:01:56.337 INFO  🎇 RemoteConfigFirebaseService: Firebase fetch time: ⏱ 731 ms
+2023-02-27 07:01:56.341 INFO  🎇 RemoteConfigFirebaseService: Getting config provider time: ⏱ 3 ms
+2023-02-27 07:01:58.317 INFO  🎇 RemoteConfigFirebaseService: Data parsing time: ⏱ 1976 ms
+2023-02-27 07:01:58.318 INFO  💽 Boot: ⏱ 2737 ms
+2023-02-27 07:01:58.318 INFO  💽 Boot: Initializing localization
+2023-02-27 07:01:58.344 INFO  C# sendEvent loading_initializing_localization with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":20}
+2023-02-27 07:01:58.348 INFO  💽 Boot: ⏱ 20 ms
+2023-02-27 07:01:58.348 INFO  💽 Boot: Checking for app update or maintenance
+2023-02-27 07:01:58.359 INFO  C# sendEvent loading_checking_for_app_update_or_maintenance with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":7}
+2023-02-27 07:01:58.360 INFO  💽 Boot: ⏱ 7 ms
+2023-02-27 07:01:58.360 INFO  💽 Boot: Initializing messaging
+2023-02-27 07:01:58.371 INFO  🔥 Firebase Initializer: Registered dependent service IOSFirebaseMessaging for initialization
+2023-02-27 07:01:58.371 INFO  🔥 Firebase Initializer: Initializing dependent Firebase services
+2023-02-27 07:01:58.371 INFO  🔥 Firebase Initializer: 1 dependent services should be initialized
+2023-02-27 07:01:58.371 INFO  🔥 Firebase Initializer: Initializing dependent service IOSFirebaseMessaging
+2023-02-27 07:01:58.374 INFO  Messaging: Firebase Messaging Initialized
+2023-02-27 07:01:58.374 INFO  🔥 Firebase Initializer: Finished dependent services initialization
+2023-02-27 07:01:58.376 INFO  Messaging: Received local notifications: 0
+2023-02-27 07:01:58.414 INFO  FCM: Initialize Firebase Messaging
+2023-02-27 07:01:58.414 INFO  FCM: Using FCM senderID 104875579061
+2023-02-27 07:01:58.448 INFO  FCM: new registration token received.
+2023-02-27 07:01:58.448 INFO  FCM: Retrieve registration token
+2023-02-27 07:01:58.449 INFO  queued token f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 07:01:58.449 INFO  sending token f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 07:01:58.449 INFO  FCM: Retrieve registration token
+2023-02-27 07:01:58.450 WARN  Messaging: Received Registration Token: f_c-gvUjEEG5ltUpFxKecv:APA91bF1iUJ0gQsWzUYk5b0Js1S-MzEqMoMexhIYxxui0ebGF849Nf-CDwY3ZIzm-F58PAH-RgJt8asgM--FTLLXXOb2jlnIeSxabAYG-58D3iT_E-5kTHRC-kbwdIN2n2mJeITI7_Sf
+2023-02-27 07:01:58.545 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 07:01:58.554 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 07:01:58.555 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 07:01:58.556 INFO  FCM: Registered for remote notifications with device token
+2023-02-27 07:01:58.561 INFO  C# sendEvent loading_initializing_messaging with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":197}
+2023-02-27 07:01:58.562 INFO  💽 Boot: ⏱ 197 ms
+2023-02-27 07:01:58.562 INFO  💽 Boot: Requesting advertisement identifier
+2023-02-27 07:01:58.593 INFO  C# sendEvent loading_requesting_advertisement_identifier with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":27}
+2023-02-27 07:01:58.593 INFO  💽 Boot: ⏱ 27 ms
+2023-02-27 07:01:58.593 INFO  💽 Boot: Initializing Facebook
+2023-02-27 07:01:58.619 INFO  Using Facebook Unity SDK v11.0.0 with FBiOSSDK/11.1.0
+2023-02-27 07:01:58.641 INFO  C# sendEvent loading_initializing_facebook with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":43}
+2023-02-27 07:01:58.641 INFO  💽 Boot: ⏱ 43 ms
+2023-02-27 07:01:58.641 INFO  💽 Boot: Tracking init start event
+2023-02-27 07:01:58.655 INFO  C# sendEvent build_init_start with properties {}
+2023-02-27 07:01:58.659 INFO  C# sendEvent loading_tracking_init_start_event with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":13}
+2023-02-27 07:01:58.659 INFO  💽 Boot: ⏱ 13 ms
+2023-02-27 07:01:58.659 INFO  💽 Boot: Deleting old log files
+2023-02-27 07:01:58.676 INFO  C# sendEvent loading_deleting_old_log_files with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":12}
+2023-02-27 07:01:58.677 INFO  💽 Boot: ⏱ 12 ms
+2023-02-27 07:01:58.677 INFO  💽 Boot: Opening server connection
+2023-02-27 07:01:58.689 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 07:01:59.594 INFO  C# sendEvent loading_opening_server_connection with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":910}
+2023-02-27 07:01:59.595 INFO  💽 Boot: ⏱ 910 ms
+2023-02-27 07:01:59.595 INFO  💽 Boot: Validating client time
+2023-02-27 07:01:59.608 INFO  📡 SignalR: Invoking SignalR method GetUtcTime at https://api-prod.suitsme.net/hub
+2023-02-27 07:01:59.796 INFO  C# sendEvent loading_validating_client_time with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":194}
+2023-02-27 07:01:59.796 INFO  💽 Boot: ⏱ 194 ms
+2023-02-27 07:01:59.797 INFO  💽 Boot: Logging user in
+2023-02-27 07:01:59.807 INFO  Autorization: Login with cached token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXBpMSIsImFwaTEiXSwiY2xpZW50X2lkIjoiTW9iaWxlQXBwIiwic3ViIjoiMjE1ZTRiZmMtNzI0MS00NjI1LWIzMmQtNTUyMGUxM2FmMjJlIiwiaWQiOiI0OTgxNjc2Iiwicm9sZSI6IlBsYXllciIsInNjb3BlIjoiYXBpMSIsIm5iZiI6MTY3NzQ3NzY2OSwiZXhwIjoxOTkyODM3NjY5LCJpYXQiOjE2Nzc0Nzc2NjksImlzcyI6IlByb2R1Y3Rpb25TZXJ2ZXIifQ.wDR6ZVTYV-OdaSkPfqjwVY5ARwuLo-KV-iVI8W-uil8
+2023-02-27 07:01:59.807 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 07:01:59.856 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 07:02:00.477 INFO  🧊 Unity In-App: Notified about initialization success by Unity
+2023-02-27 07:02:00.687 INFO  💽 Boot Login Flow: Login with access token
+2023-02-27 07:02:00.694 INFO  C# sendEvent loading_logging_user_in with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":891}
+2023-02-27 07:02:00.694 INFO  💽 Boot: ⏱ 891 ms
+2023-02-27 07:02:00.694 INFO  💽 Boot: Set device id
+2023-02-27 07:02:00.710 INFO  C# setOnceUserProperty player_id, 0A97B434-5EA1-426A-A3B1-D1526B833071
+2023-02-27 07:02:00.710 WARN  FirebaseAnalytic: IUserPropertyService SetOnce function work as Set function
+2023-02-27 07:02:00.714 INFO  C# sendEvent loading_set_device_id with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":16}
+2023-02-27 07:02:00.714 INFO  💽 Boot: ⏱ 16 ms
+2023-02-27 07:02:00.714 INFO  💽 Boot: Initializing Bank
+2023-02-27 07:02:00.727 INFO  C# sendEvent loading_initializing_bank with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":6}
+2023-02-27 07:02:00.728 INFO  💽 Boot: ⏱ 6 ms
+2023-02-27 07:02:00.728 INFO  💽 Boot: Subscribing for push token receiving
+2023-02-27 07:02:00.742 INFO  📡 SignalR: Invoking method UpdatePushToken at https://api-prod.suitsme.net/hub
+2023-02-27 07:02:00.763 INFO  C# sendEvent loading_subscribing_for_push_token_receiving with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":31}
+2023-02-27 07:02:00.763 INFO  💽 Boot: ⏱ 31 ms
+2023-02-27 07:02:00.763 INFO  💽 Boot: Subscribing for custom attribution data
+2023-02-27 07:02:00.776 INFO  C# sendEvent loading_subscribing_for_custom_attribution_data with properties {"session_number":3,"profile_id":0,"cache_profile_id":4981676,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","stage_time":7}
+2023-02-27 07:02:00.776 INFO  💽 Boot: ⏱ 7 ms
+2023-02-27 07:02:00.776 INFO  💽 Boot: Requesting initialization data from server
+2023-02-27 07:02:00.937 INFO  📡 SignalR: Disposing current SignalR connection
+2023-02-27 07:02:00.987 INFO  📡 SignalR: Starting new SignalR connection at https://api-prod.suitsme.net/hub
+2023-02-27 07:02:03.909 INFO  📡 SignalR: Invoking SignalR method InitializeClient at https://api-prod.suitsme.net/hub
+2023-02-27 07:02:05.589 INFO  Contact Support: User pressed Contact support.
+2023-02-27 07:02:05.596 INFO  Local storage integers:
+AppExecutionCount (AppExecutionCount): 3
+AppsFlyerTrackingStatus (AttStateKey_siudhs): -1
+IsStreakBroken (StreakIsBroken): 0
+IsVibrationActive (Vibration): 0
+LaunchCount (LaunchTimes): 3
+LocalizationConfigVersion (LocalizationConfig_9uh7sh0djf): 135
+RateUsVersion (VersionKey): 1
+RateUsCancelCounter (CancelCounterKey): 1
+RateUsSessionSkipForNextRate (SessionSkipForNextRateKey): 0
+TextureCacheForceCleanIndex (texture_cache): 3
+TutorialStep (TuttorialStep): 11
+LastRecordedSeasonId (LastRecordedSeasonId): 1024
+ProfileId (ProfileId): 4981676
+CacheExpirationHoursKey (CacheExpirationHours): 12
+2023-02-27 07:02:05.596 INFO  Local storage floats:
+
+2023-02-27 07:02:05.597 INFO  Local storage strings:
+FirstOpenDateTime (FirstOpen): "2023-02-27T08:01:11.679295+02:00"
+SpecialOfferLastShowDateTime (SpecialOffer_LastShowTime_ojiuom09jmcw): "2023-02-27T06:06:46.366165Z"
+2023-02-27 07:02:05.597 INFO  Local storage objects:
+
+2023-02-27 07:02:05.597 INFO  Local storage dates:
+LastSavedClothesDate (LastSavedClothesDate): "2023-02-27T06:06:25.270308Z"
+FirebaseConfigFetchDate (FirebaseConfigFetchDate): "2023-02-27T06:01:01.843+00:00"
+LastSavedCollectionsDate (LastSavedCollectionsDate): "2023-02-27T06:06:23.583675Z"
+LastSavedColorsDate (LastSavedColorsDate): "2023-02-27T06:06:23.591887Z"
+LastSavedStylesDate (LastSavedStylesDate): "2023-02-27T06:06:23.597205Z"
+2023-02-27 07:02:07.955 INFO  Local storage dates:
+LastSavedClothes (LastSavedClothes): Dictionary of 7855 items
+LastSavedCollections (LastSavedCollections): Dictionary of 52 items
+LastSavedColors (LastSavedColors): Dictionary of 113 items
+LastSavedStyles (LastSavedStyles): Dictionary of 14 items
+2023-02-27 07:02:07.963 INFO  C# sendEvent support_button_click with properties {"session_number":3,"player_id":"0A97B434-5EA1-426A-A3B1-D1526B833071","cache_profile_id":4981676,"support_place":"Loading"}
